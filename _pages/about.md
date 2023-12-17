@@ -24,6 +24,9 @@ I will give an invited talk about my work on [Study design features that improve
 *Oct 2023*, **[3rd place at Midwest Kendo tournament]**, St. Louis, MO.\\
 I participated in the [2023 Midwest Kendo tournament](https://midwestkendofederation.wordpress.com/upcoming-events/) in St. Louis, MO from Oct 7-8, 2023, and won the **3rd place** in mudansha (无段者, people below black-belt rank) division. I also passed the promotional test hold on the next day and was **promoted to Sho-dan** (the entry-level black-belt rank) in Kendo! 
 
+*Oct 2023*, **[New paper]**\\
+My collaboration paper in the field of health equity, [Differences in Health Professionals’ Engagement With Electronic Health Records Based on Inpatient Race and Ethnicity](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2810366) has been accepted at *JAMA Network Open*!
+
 *Aug 2023*, **[Contributed talk at JSM 2023]** Toronto, Canada.\\
 I attended and presented my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Joint Statistical Meeting (JSM) 2023.
 
@@ -35,6 +38,9 @@ I presented my work on [Alzheimer's disease progression modeling](https://alz-jo
 
 *May 2023*, **[Invited talk at SMI 2023]** Minneapolis, MN.\\
 I gave an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) in the session of "Collaborative Case Study: Statistical Methods and Findings from Large Consortia Studies" at the [Statistical Methods in Imaging (SMI) Conference](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/). 
+
+*May 2023*, **[New preprint]**\\
+[Study design features that improve effect sizes in cross-sectional and longitudinal brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract)
 
 *Mar 2023*, **[Blitz talk at the 4th Annual Vanderbilt Alzheimer's Disease Research Day]**, Nashville, TN.\\
 I gave a blitz talk and poster presentation about my work on the [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) at the [4th Annual Vanderbilt Alzheimer's Disease Research Day](https://www.vumc.org/vmac/AD-research-day) hold by Vanderbilt Memory & Alzheimer's Center, and was awarded as the **Best Blitz Talk** of the year. 
