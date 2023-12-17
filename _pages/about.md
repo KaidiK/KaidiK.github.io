@@ -21,6 +21,8 @@ Beyond my work, I also enjoy playing Kendo (剑道, a kind of Japanese martial a
 Nov 2023, [**Invited talk at OHBM 2024**] Seoul, Korea. 
 I was invited to present my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Organization for Human Brain Mapping (OHBM) annual meeting, which will be hold in Seoul, Korea from June 23 - June 27, 2024
 
-[**Student paper award at NESS 2023**] Boston, MA.
-I presented my work on [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) in the the student paper competition session at [36th New England Statistics Symposium](https://archive.nestat.org/symposium2023/html/)(NESS), and won the **studet paper award**. 
+Jun 2023, [**Student paper award at NESS 2023**] Boston, MA.
+I presented my work on [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) in the the student paper competition session at [36th New England Statistics Symposium](https://archive.nestat.org/symposium2023/html/)(NESS), and won the **NESS Studet Paper Award**. 
 
+May 2023, [**Invited talk at SMI 2023] Minneapolis, MN.
+I gave an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the [Statistical Methods in Imaging (SMI) Conference](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/). 
