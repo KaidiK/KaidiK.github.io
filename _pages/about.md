@@ -11,7 +11,7 @@ I am currently a Ph.D. candidate in Biostatistis in the [Department of Biostatis
 
 My research focuses on three parts: 
 
-+ **Effect sizes**: to develop a universally applicable effect size reporting framework to facilitate the result communication between studies using different effect size indices.
-+ **Study replicability**: to develop of methodology and study designs to help improve the replicability in
-+ **Alzheimer's disease progression modeling**: to model the 
++ **Effect sizes**: my dissertation work focuses on the development and application of the *robust effect size index* (RESI) -- a universally applicable effect size reporting framework, aiming to facilitate the result communication between studies using different effect size indices. 
++ **Study replicability**: engaged in the methodological work aiming to help improve the effect sizes and replicability in brain-behavior association studies, especially in studies using longitudinal data. 
++ **Alzheimer's disease progression modeling**: building a non-linear mixed effects model to characterize the overall disease progression of Alzheimer's disease (AD) using the "fragmentary" data commonly seen in AD studies such as [ADNI](https://adni.loni.usc.edu/) and [NACC](https://naccdata.org/).
 
