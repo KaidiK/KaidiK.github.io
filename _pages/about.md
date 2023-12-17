@@ -27,6 +27,9 @@ I participated in the [2023 Midwest Kendo tournament](https://midwestkendofedera
 *Aug 2023*, **[Contributed talk at JSM 2023]** Toronto, Canada.\\
 I attended and presented my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Joint Statistical Meeting (JSM) 2023.
 
+*Jul 2023*, **[3rd place in All US National Kendo Championships]** Rochester, MI.\\
+I was selected to Southeast team to compete for National Champions at the All US Kendo Championships -- the highest-level Kendo tournament in the US. We won the 3rd place representing the mudansha team from the southeastern region! This achievement is the result of the hard work and sweat of every team member!
+
 *Jun 2023*, **[Student paper award at NESS 2023]** Boston, MA.\\
 I presented my work on [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) in the the student paper competition session at [36th New England Statistics Symposium](https://archive.nestat.org/symposium2023/html/) (NESS), and won the **NESS Studet Paper Award**!
 
