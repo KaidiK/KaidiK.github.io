@@ -34,7 +34,7 @@ I presented my work on [Alzheimer's disease progression modeling](https://alz-jo
 I gave an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) in the session of "Collaborative Case Study: Statistical Methods and Findings from Large Consortia Studies" at the [Statistical Methods in Imaging (SMI) Conference](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/). 
 
 *Mar 2023*, **[Blitz talk at the 4th Annual Vanderbilt Alzheimer's Disease Research Day]**, Nashville, TN.\\
-I gave a blitz talk and poster presentation about my work on the [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) at the [4th Annual Vanderbilt Alzheimer's Disease Research Day](https://www.vumc.org/vmac/AD-research-day) hold by Vanderbilt Memory & Alzheimer's Center, and was selected at the **Best Blitz Talk** award of the year. 
+I gave a blitz talk and poster presentation about my work on the [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) at the [4th Annual Vanderbilt Alzheimer's Disease Research Day](https://www.vumc.org/vmac/AD-research-day) hold by Vanderbilt Memory & Alzheimer's Center, and was awarded as the **Best Blitz Talk** of the year. 
 
 *Mar 2023*, **[Contributed talk at ENAR 2023]**, Nashville, TN.\\
 I presented my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the ENAR 2023.
