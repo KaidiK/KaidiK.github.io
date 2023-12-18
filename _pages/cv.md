@@ -26,7 +26,7 @@ Professional experience
 * Dec. 2020 - present: Research Assistant
   * Vanderbilt University Medical Center 
   *  Development and application of a robust effect size reporting framework to facilitate the result communication between scientific studies using different statistical methods and designs.
-  * Supervisor: Dr. Simon Vandekar, PhD
+  * Supervisor: Simon Vandekar, PhD
 
 * Summer 2018: Biostatistics Intern
   * Janssen Research & Development
