@@ -24,7 +24,7 @@ I will give an invited talk about my work on [Study design features that improve
 [Oct 2023[, **3rd place at Midwest Kendo tournament**, _St. Louis, MO_.\\
 I participated in the [2023 Midwest Kendo tournament](https://midwestkendofederation.wordpress.com/upcoming-events/) in St. Louis, MO from Oct 7-8, 2023, and won the **3rd place** in mudansha (无段者, people below black-belt rank) division. I also passed the promotional test hold on the next day and was **promoted to Sho-dan** (the entry-level black-belt rank) in Kendo! 
 
-[Oct 2023], **[New paper!]**\\
+[Oct 2023], **New paper!**\\
 My collaboration paper in the field of health equity, [Differences in Health Professionals’ Engagement With Electronic Health Records Based on Inpatient Race and Ethnicity](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2810366), has been accepted at *JAMA Network Open*!
 
 [Aug 2023], **Contributed talk at JSM**, _Toronto, Canada_.\\
@@ -39,7 +39,7 @@ I presented my work on [Alzheimer's disease progression modeling](https://alz-jo
 [May 2023], **Invited talk at SMI 2023**, _Minneapolis, MN_.\\
 I gave an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) in the session of "Collaborative Case Study: Statistical Methods and Findings from Large Consortia Studies" at the [Statistical Methods in Imaging (SMI) Conference](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/). 
 
-[May 2023], **[New preprint!]**\\
+[May 2023], **New preprint!**\\
 This work is the 2nd and 3rd chapters of my dissertation work!\\
 [Study design features that improve effect sizes in cross-sectional and longitudinal brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract)
 
@@ -49,11 +49,11 @@ I gave a blitz talk and poster presentation about my work on the [Alzheimer's di
 [Mar 2023], **Contributed talk at ENAR**, _Nashville, TN_.\\
 I presented my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the ENAR 2023.
 
-[Feb 2023] **[New paper!]**\\
+[Feb 2023] **New paper!**\\
 My paper has been accepted at *Psychometrika*. This paper is the first chapter of my dissertation work!\\
 [Accurate Confidence and Bayesian Interval Estimation for Non-centrality Parameters and Effect Size Indices](https://link.springer.com/article/10.1007/s11336-022-09899-x)
 
-[Feb 2023] **[New paper!]**\\
+[Feb 2023] **New paper!**\\
 My collaboration paper in health equity has been accepted at *American Journal of Epidemiology*.\\
 [A Novel Methodological Approach to Measure Linear Trends in Health Inequalities: Proof of Concept With Adolescent Smoking in Europe](https://academic.oup.com/aje/article/192/6/963/7025827)
 
