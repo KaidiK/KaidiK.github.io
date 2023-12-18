@@ -53,11 +53,11 @@ I presented my work on [Study design features that improves the effect sizes in 
 My paper has been accepted at *Psychometrika*. This paper is the first chapter of my dissertation work!\\
 [Accurate Confidence and Bayesian Interval Estimation for Non-centrality Parameters and Effect Size Indices](https://link.springer.com/article/10.1007/s11336-022-09899-x)
 
-[Feb 2023] **New paper**\\
+[Feb 2023] **[New paper!]**\\
 My collaboration paper in health equity has been accepted at *American Journal of Epidemiology*.\\
 [A Novel Methodological Approach to Measure Linear Trends in Health Inequalities: Proof of Concept With Adolescent Smoking in Europe](https://academic.oup.com/aje/article/192/6/963/7025827)
 
-*Dec 2022*, **[Invited talk at CMS 2022]**, London, UK.\\
+[Dec 2022], **Invited talk at CMS**, London, UK.\\
 I gave an invited talk at Computational and Methodological Statistics (CMStatistics 2022) about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract).
 
 
