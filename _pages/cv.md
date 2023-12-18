@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Biostatistics, Vanderbilt University, 2024 (expected)
 * M.S. in Biostatistics, Georgetown University, 2019
-* B.S. in Applied Statistics, Southern Medical University, *Guangzhou, China*, 2017
+* B.S. in Applied Statistics, Southern Medical University (Guangzhou, China), 2017
 
 
 Professional experience
