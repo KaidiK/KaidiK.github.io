@@ -19,7 +19,7 @@ Beyond my work, I also enjoy playing Kendo (剑道, a kind of Japanese martial a
 ## Recent News
 
 [Nov 2023]   **Invited talk at OHBM 2024**, *Seoul, Korea*.\\
-I will give an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Organization for Human Brain Mapping (OHBM) annual meeting from June 23 - June 27, 2024 in Seoul, Korea. Come and talk with me if you are there as well and interested in my work!
+I was invited to talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Organization for Human Brain Mapping (OHBM) annual meeting from June 23 - June 27, 2024 in Seoul, Korea. Come and talk with me if you are there as well and interested in my work!
 
 [Oct 2023]   **3rd place at Midwest Kendo tournament**, _St. Louis, MO_.\\
 I participated in the [2023 Midwest Kendo tournament](https://midwestkendofederation.wordpress.com/upcoming-events/) in St. Louis, MO from Oct 7-8, 2023, and won the **3rd place** in mudansha (无段者, people below black-belt rank) division. I also passed the promotional test hold on the next day and was **promoted to Sho-dan** (the entry-level black-belt rank) in Kendo! 
