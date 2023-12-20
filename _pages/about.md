@@ -34,7 +34,7 @@ I attended and presented my work on [Study design features that improves the eff
 I was selected to Southeast team to compete for National Champions at the All US Kendo Championships -- the highest-level Kendo tournament in the US. We won the 3rd place representing the mudansha team from the southeastern region! This achievement is the result of the hard work and sweat of every team member!
 
 [Jun 2023]   **Student paper award at NESS**, _Boston, MA_.\\
-I presented my work on [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) in the the student paper competition session at [36th New England Statistics Symposium](https://archive.nestat.org/symposium2023/html/) (NESS), and won the **NESS Studet Paper Award**!
+I presented my work on [Alzheimer's disease progression modeling](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.063496) in the the student paper competition session at the [36th New England Statistics Symposium](https://archive.nestat.org/symposium2023/html/) (NESS), and won the **NESS Studet Paper Award**!
 
 [May 2023]   **Invited talk at SMI 2023**, _Minneapolis, MN_.\\
 I gave an invited talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) in the session "Collaborative Case Study: Statistical Methods and Findings from Large Consortia Studies" at the [Statistical Methods in Imaging (SMI 2023) Conference](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/). 
@@ -58,7 +58,7 @@ My collaboration paper in health equity has been accepted at *American Journal o
 [A Novel Methodological Approach to Measure Linear Trends in Health Inequalities: Proof of Concept With Adolescent Smoking in Europe](https://academic.oup.com/aje/article/192/6/963/7025827)
 
 [Dec 2022]   **Invited talk at CMS**, London, UK.\\
-I gave an invited talk at Computational and Methodological Statistics (CMStatistics 2022): A single framework for the analysis of effect sizes in cross-sectional and longitudinal studies. 
+I gave an invited talk at the [Computational and Methodological Statistics (CMStatistics 2022)](http://www.cmstatistics.org/CMStatistics2022/index.php): _A single framework for the analysis of effect sizes in cross-sectional and longitudinal studies._
 
 
 
