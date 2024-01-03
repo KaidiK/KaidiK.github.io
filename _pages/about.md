@@ -18,6 +18,8 @@ Beyond my work, I also enjoy playing Kendo (剑道, a kind of Japanese martial a
 
 ## Recent News
 
+[Jan 2023] My paper published in *Psychometrika* last year was highlighted as the [top 5 most downloaded papers from the journal in 2023](https://link.springer.com/journal/11336/updates/18603048)!
+
 [Nov 2023]   **Invited talk at OHBM 2024**, *Seoul, Korea*.\\
 I was invited to talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Organization for Human Brain Mapping (OHBM) annual meeting from June 23 - June 27, 2024 in Seoul, Korea. Come and talk with me if you are there as well and interested in my work!
 
