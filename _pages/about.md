@@ -18,10 +18,9 @@ Beyond my work, I also enjoy playing Kendo (剑道, a kind of Japanese martial a
 
 ## Recent News
 
-[Jan 2024] My paper published in *Psychometrika* last year was highlighted as the [top 5 most downloaded papers from the journal in 2023](https://link.springer.com/journal/11336/updates/18603048)!
+[Jan 2024] I will present my work on [the detrimental longitudinal design in ABCD](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the ABCD Insights & Innovation Meeting (AIIM) held at NIH from Mar 3-4, 2024. Come and talk with me if you are there as well and interested in my work!
 
-[Nov 2023]   **Invited talk at OHBM 2024**, *Seoul, Korea*.\\
-I was invited to talk about my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the Organization for Human Brain Mapping (OHBM) annual meeting from June 23 - June 27, 2024 in Seoul, Korea. Come and talk with me if you are there as well and interested in my work!
+[Jan 2024] My paper published in *Psychometrika* last year was highlighted as the [top 5 most downloaded papers from the journal in 2023](https://link.springer.com/journal/11336/updates/18603048)!
 
 [Oct 2023]   **3rd place at Midwest Kendo tournament**, _St. Louis, MO_.\\
 I participated in the [2023 Midwest Kendo tournament](https://midwestkendofederation.wordpress.com/upcoming-events/) in St. Louis, MO from Oct 7-8, 2023, and won the **3rd place** in mudansha (无段者, people below black-belt rank) division. I also passed the promotional test held on the next day and was **promoted to Sho-dan** (the entry-level black-belt rank) in Kendo! 
@@ -50,19 +49,6 @@ I gave a blitz talk and poster presentation about my work on the [Alzheimer's di
 
 [Mar 2023]  **Contributed talk at ENAR**, _Nashville, TN_.\\
 I presented my work on [Study design features that improves the effect sizes in brain-wide association studies](https://www.biorxiv.org/content/10.1101/2023.05.29.542742v2.abstract) at the ENAR 2023.
-
-[Feb 2023]  **New paper!**\\
-My paper has been accepted at *Psychometrika*. This paper is the first chapter of my dissertation work!\\
-[Accurate Confidence and Bayesian Interval Estimation for Non-centrality Parameters and Effect Size Indices](https://link.springer.com/article/10.1007/s11336-022-09899-x)
-
-[Feb 2023]   **New paper!**\\
-My collaboration paper in health equity has been accepted at *American Journal of Epidemiology*.\\
-[A Novel Methodological Approach to Measure Linear Trends in Health Inequalities: Proof of Concept With Adolescent Smoking in Europe](https://academic.oup.com/aje/article/192/6/963/7025827)
-
-[Dec 2022]   **Invited talk at CMS**, London, UK.\\
-I gave an invited talk at the [Computational and Methodological Statistics (CMStatistics 2022)](http://www.cmstatistics.org/CMStatistics2022/index.php): _A single framework for the analysis of effect sizes in cross-sectional and longitudinal studies._
-
-
 
 
 
