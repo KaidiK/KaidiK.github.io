@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A pdf version of my full CV is available [here](https://kaidik.github.io/files/CV_Kaidi_github_2023Dec.pdf) (updated Dec., 2023).
+A pdf version of my full CV is available [here](https://kaidik.github.io/files/CV_Kaidi_github_2024Aug.pdf) (updated Aug., 2024).
 
 Education
 ======
