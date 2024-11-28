@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Ph.D. candidate in Biostatistics in the [Department of Biostatistics](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) at Vanderbilt University, advised by [Dr. Simon Vandekar](https://simonvandekar.github.io/). 
 
 
-**I am currently in the 24-25 academic job market, open to faculty opportunities - would appreciate it if you could reach out!** 
+**I’m currently on the academic job market, and would love to hear about any exciting opportunities — please feel free to reach out!** 
 
 
 My research focuses on developing and applying a universally applicable **effect size** reporting framework, aiming to facilitate the result communication between studies using different effect size indices. Recently, utilizing our proposed effect size reporting framework, we have engaged in methodological work to help address the growing concerns about low **replicability** in brain-behavior association studies. In addition, I have been participating in the development of statistical models to characterize the overall disease progression of **Alzheimer's disease** (AD) using the "fragmentary" data commonly seen in AD studies such as [ADNI](https://adni.loni.usc.edu/) and [NACC](https://naccdata.org/).
