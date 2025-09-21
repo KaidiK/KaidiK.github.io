@@ -7,11 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Department of Biostatistics and Data Science at the Wake Forest University School of Medicine. I obtained my Ph.D. degree in Biostatistics from [Vanderbilt Univeristy](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics), under the supervision from [Dr. Simon Vandekar](https://simonvandekar.github.io/). 
+I am an Assistant Professor in the [Department of Biostatistics and Data Science](https://school.wakehealth.edu/departments/biostatistics-and-data-science) at Wake Forest University School of Medicine (WFUSM), begining June 2025. I earned my Ph.D. degree in Biostatistics from [Vanderbilt Univeristy](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) in 2025, where I was fortunate to be advised by [Dr. Simon Vandekar](https://simonvandekar.github.io/). 
 
-My research interests lie on developing and applying statistical methods to address raising critical problems in various biomedical fields, including Psychiatry, Psychology, Alzheimer's disease and Neuroscience, by leveraging and integrating data from large-scale, multi-scource studies. My research involves effect size index development, replicability of brain-wide association studies (BWAS), and advanced longitudinal modeling for complex-structured data.
+My research centers on advancing and applying statistical knowledge to address critical challenges in various biomedical fields, including Psychiatry, Psychology, Alzheimer's disease and Neuroscience. I am especially interested in leveraging and intergrating data from large-scale, multi-scource studies to generate insights that advance scientific understanding in different fields.
 
-I also pursue broad collaborative interests in medicine and public health. If you are interested in collaborating, please feel free to contact me at kkang@wakehealth.edu
+**Current statistical research includes**:
+
++ developing a universal effect size reporting framework
++ enhancing the replicability of neuroimaigng studies through improved study design and statistical techniques
++ advancing longitudinal modeling techniques to characterize the Alzheimer's disease progression across the entire disease spectrum
++ quantifying subject-specific cognitive resilience in patients with Alzheimer's disease
+
+I also pursue broad collaborative interests accross medicine and public health. If you are interested in collaboration, please feel free to contact me at kkang@wakehealth.edu
 
 
 ## Recent News
