@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the [Department of Biostatistics and Data Science](https://school.wakehealth.edu/departments/biostatistics-and-data-science) at Wake Forest University School of Medicine (WFUSM), begining June 2025. I earned my Ph.D. degree in Biostatistics from [Vanderbilt Univeristy](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) in 2025, where I was fortunate to be advised by [Dr. Simon Vandekar](https://simonvandekar.github.io/). 
+I am an Assistant Professor in the [Department of Biostatistics and Data Science](https://school.wakehealth.edu/departments/biostatistics-and-data-science) at Wake Forest University School of Medicine (WFUSM) beginning June 2025. I earned my Ph.D. in Biostatistics from [Vanderbilt University](https://www.vumc.org/biostatistics/vanderbilt-department-biostatistics) in 2025, where I was fortunate to be advised by [Dr. Simon Vandekar](https://simonvandekar.github.io/). 
 
-My research centers on advancing and applying statistical knowledge to address critical challenges in various biomedical fields, including Psychiatry, Psychology, Alzheimer's disease and Neuroscience. I am especially interested in leveraging and intergrating data from large-scale, multi-scource studies to generate insights that advance scientific understanding in different fields.
+My research centers on advancing and applying statistical methodology to address critical challenges in various biomedical fields, including Psychiatry, Psychology, Alzheimer's disease and neuroscience. I am especially interested in leveraging and integrating data from large-scale, multi-source studies to generate insights from a biostatistical perspective that advances research in these fields.
 
-**Current statistical research includes**:
+**Current research includes**:
 
-+ developing a universal effect size reporting framework
-+ enhancing the replicability of neuroimaigng studies through improved study design and statistical techniques
-+ advancing longitudinal modeling techniques to characterize the Alzheimer's disease progression across the entire disease spectrum
-+ quantifying subject-specific cognitive resilience in patients with Alzheimer's disease
++ Developing a universal effect size reporting framework
++ Enhancing the replicability of neuroimaging studies through study design and statistical techniques
++ Advancing longitudinal modeling techniques to characterize the Alzheimer's disease progression across the disease spectrum
++ Quantifying subject-specific cognitive resilience in patients with Alzheimer's disease
 
-I also pursue broad collaborative interests accross medicine and public health. If you are interested in collaboration, please feel free to contact me at kkang@wakehealth.edu
+I also pursue broad collaborative interests across medicine and public health. If you are interested in collaboration, please feel free to contact me at kkang@wakehealth.edu
+
 
 
 ## Recent News
