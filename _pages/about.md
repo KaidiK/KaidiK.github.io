@@ -18,7 +18,7 @@ My research centers on advancing and applying statistical methodology to address
 + Advancing longitudinal modeling techniques to characterize the Alzheimer's disease progression across the disease spectrum
 + Quantifying subject-specific cognitive resilience in patients with Alzheimer's disease
 
-I also pursue broad collaborative interests across medicine and public health. If you are interested in collaboration, please feel free to contact me at kkang@wakehealth.edu
+I also pursue broad collaborative interests across medicine and public health. If you are interested in collaboration, please feel free to contact me at kaidi.kang@wfusm.edu
 
 
 
