@@ -7,14 +7,9 @@ redirect_from:
   - /resume
 ---
 
-A pdf version of my full CV is available [here](https://kaidik.github.io/files/CV_Kaidi_github_2024Aug.pdf) (updated Aug., 2024).
-
 Education
 ======
 * Ph.D in Biostatistics, Vanderbilt University, 2024 (expected)
-* M.S. in Biostatistics, Georgetown University, 2019
-* B.S. in Applied Statistics, Southern Medical University (Guangzhou, China), 2017
-
 
 Professional experience
 ======
